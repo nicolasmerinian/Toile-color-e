@@ -1,0 +1,25 @@
+body {
+	background : #666;
+}
+
+/*#conteneur {
+	background : #FFF;
+ 	width : 800px;
+	height : 600px;
+	border : 1px solid #333;
+	margin : 0 auto;
+	text-align : center;
+	-moz-box-shadow : 0 0 5px 5px #444;
+	-webkit-box-shadow : 0 0 5px 5px #444;
+	box-shadow : 0 0 5px 5px #444
+} */
+
+h1 {
+	text-align : center;
+	color : #FFF;
+}
+
+#canvasElement {
+	/* cursor : url(../images/curseurInvisible.png), auto; */
+	background-color : black;
+}
